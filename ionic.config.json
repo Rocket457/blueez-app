@@ -1,0 +1,8 @@
+{
+  "name": "blueez-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b17e15cd"
+}
